@@ -1,0 +1,7 @@
+Flask==2.2.2
+openai==0.27.0
+langchain==0.0.121
+faiss-cpu==1.7.3
+transformers==4.28.1
+accelerate==0.19.0
+sqlite3==3.36.0
