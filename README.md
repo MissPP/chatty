@@ -1,4 +1,4 @@
-# jEfficient AI Toolset and Fine-Tuning Framework
+# Efficient AI Toolset and Fine-Tuning Framework
 
 This project implements an efficient AI toolset and fine-tuning framework, combining Flask web framework, LongChain fine-tuning framework, FAISS vector search engine, and remote API calling functionalities. Designed for building intelligent dialogue systems, it supports quick response generation, efficient data retrieval, and custom model fine-tuning. The modular architecture provides flexibility for future expansion, making it adaptable for various AI project needs.
 
